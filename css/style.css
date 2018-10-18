@@ -11,3 +11,12 @@ blockquote {
     text-align: center;
     margin-left: 0%;
 }
+
+.navbar li {
+    display: inline;
+    padding-right: 10px;
+}
+ul a {
+    text-decoration: none;
+
+}
